@@ -1,6 +1,6 @@
 {
-  "name": "GitHub Pages App",
-  "short_name": "GHApp",
+  "name": "Nebulouos Chat app",
+  "short_name": "Nebulous",
   "start_url": ".",
   "display": "standalone",
   "theme_color": "#111111",
