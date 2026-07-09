@@ -1,12 +1,17 @@
 {
   "name": "Nebulouos Chat app",
   "short_name": "Nebulous",
+  "description": "Simple test PWA for Nebulous Chat",
   "start_url": ".",
-  "display": "standalone",
-  "theme_color": "#111111",
+  "display": "fullscreen",
+  "orientation": "portrait"
   "background_color": "#111111",
+  "theme_color": "#111111",
+  "scope": "./",
+  "lang": "en",
   "icons": [
     { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
-    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" }
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
   ]
 }
